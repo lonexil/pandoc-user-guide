@@ -3,6 +3,8 @@
 ## TOC
 1. [Introduction](#1-introduction)
 2. [Installation](#2-installation)
+3. [Basic-usage](#3-basic-usage)
+4. [Common-options](#4-common-options)
 ## 1. Introduction
 Pandoc is a universal document converter that allows you to convert files between formats such as Markdown, Word, PDF, and HTML.  
 This guide covers the basic installation package and usage.
