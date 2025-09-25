@@ -11,7 +11,7 @@
 Pandoc is a universal document converter that allows you to convert files between formats such as Markdown, Word, PDF, and HTML.  
 This guide covers the basic installation package and usage.
 
----
+
 
 ## 2. Installation
 
